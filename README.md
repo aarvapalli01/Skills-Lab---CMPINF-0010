@@ -14,3 +14,6 @@ Please feel free to contribute to the program by adding any desired features. Th
 
 ## Why We Chose Our Code of Conduct
 We decided to use the Contributor Covenant for out code of conduct because we feel it gives a thorough explanation of how people should be treated and interact in a collaborative environment. It also makes it clear that if these rules are not followed, people can be punished and not allowed to interact with the project anymore.
+
+## Why we Chose Our License
+We gave the user a lot of freedom when using our program with our license. It allows the user to use our program without any repercussions, but it also absolves us of any liability if the program was used inappropriately. 
