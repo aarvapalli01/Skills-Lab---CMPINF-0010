@@ -1,0 +1,48 @@
+Last login: Tue Feb 21 14:53:22 on ttys000
+sruthimalineni@MacBook-Air-79 ~ % cd Desktop
+sruthimalineni@MacBook-Air-79 Desktop % cd Skills-Lab---CMPINF-0010
+sruthimalineni@MacBook-Air-79 Skills-Lab---CMPINF-0010 % nano main.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                     File: main.py                      Modified  
+
+name = input("What is your name?")
+age = input("What is your age?")
+
+print("Your name is "+name+" and your age is "+age+".")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
